@@ -17,4 +17,4 @@ A Kubernetes cluster of Raspberry Pi 3 and 4 boards, benchmarked against a deskt
 `ESP32` `PlatformIO` `MQTT` `Node-RED` `Raspberry Pi` `Kubernetes` `Docker` `Python` `Linux`
 
 ## Socials
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-tingos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-tingos)
