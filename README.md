@@ -1,6 +1,6 @@
 # Hi, I'm George 👋
 
-Informatics student at the University of Western Macedonia, working on IoT and Raspberry Pi projects with the [IEEE Student Branch Kastoria](https://github.com/ieeesbkastoria).
+Informatics student at the University of Western Macedonia, working with the [IEEE Student Branch Kastoria](https://github.com/ieeesbkastoria).
 
 ## 🚀 Projects I collaborated
 
