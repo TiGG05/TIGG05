@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm George 👋
 
-<!--
-**TiGG05/TIGG05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics student at the University of Western Macedonia, working on IoT and Raspberry Pi projects with the [IEEE Student Branch Kastoria](https://github.com/ieeesbkastoria).
 
-Here are some ideas to get you started:
+## 🚀 Projects I collaborated
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [IoT Smart Plant] https://github.com/ieeesbkastoria/IoT-Smart-Plant
+Automated plant watering with an ESP32, soil moisture and DHT11 sensors, MQTT, and a Node-RED dashboard that controls a water pump.
+
+### [Smart Campus] https://github.com/ieeesbkastoria/Smart-Campus
+A battery-powered ESP32 device that monitors a campus room (light, temperature, humidity, motion, door) and sends data to Node-RED.
+
+### [Raspberry Pi Kubernetes Cluster] https://github.com/ieeesbkastoria/KLS-Pi-Calculation
+A Kubernetes cluster of Raspberry Pi 3 and 4 boards, benchmarked against a desktop PC and single Pi models on speed, energy use, and temperature.
+
+## 🛠️ Tech
+`ESP32` `PlatformIO` `MQTT` `Node-RED` `Raspberry Pi` `Kubernetes` `Docker` `Python` `Linux`
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/george-tingos) 
