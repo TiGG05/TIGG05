@@ -14,7 +14,9 @@ A battery-powered ESP32 device that monitors a campus room (light, temperature, 
 A Kubernetes cluster of Raspberry Pi 3 and 4 boards, benchmarked against a desktop PC and single Pi models on speed, energy use, and temperature.
 
 ## 🛠️ Tech
-`ESP32` `PlatformIO` `MQTT` `Node-RED` `Raspberry Pi` `Kubernetes` `Docker` `Python` `Linux`
+
+**Languages:** C · C++ · Python · JavaScript · SQL
+**IoT & embedded:** ESP32 · PlatformIO · MQTT · Node-RED · Raspberry Pi · Sensors
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-tingos)
