@@ -15,8 +15,13 @@ A Kubernetes cluster of Raspberry Pi 3 and 4 boards, benchmarked against a deskt
 
 ## 🛠️ Tech
 
-**Languages:** C · C++ · Python · JavaScript · SQL
-**IoT & embedded:** ESP32 · PlatformIO · MQTT · Node-RED · Raspberry Pi · Sensors
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-tingos)
